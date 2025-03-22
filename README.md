@@ -26,9 +26,9 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/annefdo212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="annefdo212" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anne fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anne fernando" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Anne Fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anne fernando" height="30" width="40" /></a>
 <a href="https://kaggle.com/annefdo212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="annefdo212" height="30" width="40" /></a>
-<a href="https://fb.com/anne fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anne fernando" height="30" width="40" /></a>
+<a href="https://fb.com/Anne Fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anne fernando" height="30" width="40" /></a>
 <a href="https://instagram.com/annaaa_fdo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="annaaa_fdo" height="30" width="40" /></a>
 </p>
 
