@@ -41,7 +41,7 @@
 ### Analysis
 
 
-[(https://activity-graph.herokuapp.com/graph?username=Wannefdo&theme=tokyonight)](https://git.io/praveenscience)
+(https://git.io/praveenscience)
 
 | ![Anne's github stats](https://github-readme-stats.vercel.app/api?username=Wannefdo&show_icons=true&theme=tokyonight) | ![Anne GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wannefdo&theme=tokyonight) |
 | --- | --- |
