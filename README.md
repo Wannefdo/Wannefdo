@@ -41,9 +41,12 @@
 ### Analysis
 
 
-| ![Anne's github stats](https://github-readme-stats.vercel.app/api?username=Wannefdo&show_icons=true&theme=tokyonight) | ![Anne's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wannefdo&theme=tokyonight) |
+[![Anne's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Wannefdo&theme=tokyonight)](https://git.io/praveenscience)
+
+| ![Anne's github stats](https://github-readme-stats.vercel.app/api?username=Wannefdo&show_icons=true&theme=tokyonight) | ![Anne GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wannefdo&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wannefdo&theme=tokyonight) | 
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wannefdo&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Wannefdo&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
 
 -----
 Credits: [Anne Fernando](https://github.com/AWannefdo)
