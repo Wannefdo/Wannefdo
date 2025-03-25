@@ -41,7 +41,7 @@
 ### Analysis
 
 
-| ![Anne's github stats](https://github-readme-stats.vercel.app/api?username=Wannefdo&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wannefdo&theme=tokyonight) |
+| ![Anne's github stats](https://github-readme-stats.vercel.app/api?username=Wannefdo&show_icons=true&theme=tokyonight) | ![Anne's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wannefdo&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wannefdo&theme=tokyonight) | 
 
